@@ -107,7 +107,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Reverse Engineering"
             weight = 3
-            url = "posts/"
+            url = "reverse/"
             
             [[languages.en.menu.main]]
             name = "Projects"
