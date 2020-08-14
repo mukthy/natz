@@ -1,8 +1,14 @@
----
-title: "Baby_RE"
-date: 2020-08-13T20:40:21+05:30
-draft: false
----
++++ 
+draft = false
+date = 2020-08-13T23:25:31+05:30
+title = "Baby_RE"
+description = ""
+slug = "" 
+tags = []
+categories = []
+externalLink = ""
+series = []
++++
 
 ## Baby_RE
 
