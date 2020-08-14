@@ -91,3 +91,11 @@ SELEC * FROM users WHERE username = ‘admin’--’ AND password = ‘admin123�
 ```
 
 The above highlighted part of the query will be removed from the execution since we are including the comment `--` sequence.
+
+If we see the below image we are entering the `administrator'--` in the username and we can enter any random characters in password field and it will allow us to get into admin account.
+
+{{< figure src="/images/loginpage.png" caption="Admin Login Page, \"SQL Injection\" by natzsec" >}}
+
+{{< figure src="/images/adminaccount.png" caption="Admin Page Accessed, \"SQL Injection\" by natzsec" >}}
+
+Next We will look into the retrieving data from other databases from tables.
